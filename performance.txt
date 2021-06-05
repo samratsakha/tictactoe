@@ -1,0 +1,6 @@
+LogisticRegression - 68
+DecisionTreeClassfier - 91
+RandomForestClassifier - 92
+KNNClassifier - 83
+Gaussian NB - 71
+SVC - 89
